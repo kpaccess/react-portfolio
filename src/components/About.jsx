@@ -12,20 +12,18 @@ const About = () => {
             About
           </p>
         </div>
+
         <p className="text-xl mt-20">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse numquam
-          sint perferendis quibusdam excepturi commodi autem doloremque nostrum
-          repellendus blanditiis. Tempore modi distinctio aperiam cum enim
-          nobis, quaerat tempora eum.
+          Hi there! I'm a front-end developer with experience in React and
+          Redux. I'm passionate about creating user-friendly and visually
+          appealing websites and applications.
         </p>
 
         <br />
 
-        <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quibusdam
-          accusamus ipsa numquam enim debitis? Voluptates maxime in quos illum.
-          In odio aperiam iusto omnis quibusdam est, distinctio nulla? Sit,
-          earum!
+        <p>
+          In my free time, I enjoy exploring new technologies and learning new
+          skills. I also enjoy hiking and spending time outdoors.
         </p>
       </div>
     </div>
